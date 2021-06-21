@@ -1,0 +1,13 @@
+{
+    "name": "Architecture",
+    "alias": "architecture",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Architecture\\Providers\\ArchitectureServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
